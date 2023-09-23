@@ -14,8 +14,8 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 ## Who's on your team?
 *List the full names,  email address & Github username of your teammates*
 
-1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
-2. 
+1.   **Zach Terwort**  || **terwort@cvicplus.com**  || **terwort**
+2.   **Joshua Enfield**  || **enfield@civicplus.com**  || **joshsten**
 3.
 4.
 5.
@@ -25,9 +25,9 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 
 ## What is the name of your App?
 
-<br /><br />
+<br />   <br />
 ## What does your app do?
-*Describe in a paragraph or so*
+*Extract content from general sites into a common format with machine learning enriched meaning.*
 
 <br /><br />
 
@@ -39,7 +39,7 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 - [ ]  Pinata ERC-6551 Challenge
 - [ ]  Okta Challenge
 - [ ]  GEHA Generative AI Emergency Response Challenge
-- [ ]  Corporate Challenge (only for official company teams)
+- [x]  Corporate Challenge (only for official company teams)
 - [ ]  College Challenge (only for teams of up to 5 CS students from the same school)
 
 <br /><br />
